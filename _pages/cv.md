@@ -11,35 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Mathematics, 2019.09 -- 2025.01
+   * Yau Mathematical Science Center, Tsinghua University, China
+   * Supervisor: Professor [Chunmei Su](http://www.chunmei-su.cn/)
+* Visiting Student, 2024.06 -- 2024.11
+   * Department of Mathematics, University of Regensburg, Germany
+   * Host: Professor [Harald Garcke](https://garcke.app.uni-regensburg.de/)
+* B.S. in Pure and applied Mathematics, 2015.09 -- 2019.07
+   * Department of Mathematics, Shandong University, China
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025.04 -- now: Postdoctoral Research Assistant
+  * Department of Mathematics, University of Edinburgh, The United Kingdom
+  * Mentor: Professor [Kaibo Hu](https://kaibohu.github.io/)
 
 Publications
 ======
@@ -58,7 +44,14 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Programing Software usage
 ======
-* Currently signed in to 43 different slack teams
+* MATLAB
+* DUNE
+* NGSolve
+  
+Honors
+======
+* Yau Mathematical Science Center Schorlarship, Tsinghua University, 2023
+* National Schorlarship, Shandong University, 2018
